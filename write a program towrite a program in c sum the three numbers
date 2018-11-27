@@ -1,0 +1,18 @@
+/*write a program in c find the sum of three numbers*/
+#include<stdio.h>
+#include<conio.h>
+main()
+{ 
+num1,num2,num3,sum;
+printf("enter first number\n");
+scanf("%d",&num1);
+printf("enter second number\n");
+scanf("%d",&num2);
+printf("enter third number\n");
+scanf("%d",&num3);
+sum=num1+num2+num3;
+printf("sum=%d",s);
+getch();
+}
+
+
